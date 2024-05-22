@@ -1,18 +1,27 @@
 ## If you have problem in running PyShape, follow these steps:
-## Windows:
-- You may need to install the latest version of python. Please visit [here](https://www.python.org/)
+- ## Windows:
+    - You may need to install the latest version of python. Please visit [here](https://www.python.org/)
 
-## In Linux:
-### you may have the python, but you cannot use turtle package. Run following command:
-- ### In Debian:
+- ## In Linux:
+    ### you may have the python, but you cannot use turtle package. Run following command:
+  - ### In Debian:
   ```shell
   sudo apt install python3-tk
   ```
-- ### In Arch:
+  open the CMD and go to the pyShape folder using 'cd' command. Then run this command:
+  ```
+  python ./pyShape.py
+  ```
+  
+  - ### In Arch:
   ```shell
   sudo pacman -S tk
   ```
-
+  open the terminal and go to the pyShape folder using 'cd' command. Then run this command:
+  ```
+  python3 ./pyShape.py
+  ```
+  
 What is PyShape?
 -
 It can make beautiful shapes for you using repetition patterns.
@@ -29,4 +38,5 @@ And the little turtle will draw it for you!
 
 Contact me
 -
+If you have any problem
 Telegram: [MrJavadGG](https://t.me/MrJavadGG/)

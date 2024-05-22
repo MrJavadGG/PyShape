@@ -1,5 +1,17 @@
-PyShape
--
+## If you have problem in running PyShape, follow these steps:
+## Windows:
+- You may need to install the latest version of python. Please visit [here](https://www.python.org/)
+
+## In Linux:
+### you may have the python, but you cannot use turtle package. Run following command:
+- ### In Debian:
+  ```shell
+  sudo apt install python3-tk
+  ```
+- ### In Arch:
+  ```shell
+  sudo pacman -S tk
+  ```
 
 What is PyShape?
 -
@@ -17,4 +29,4 @@ And the little turtle will draw it for you!
 
 Contact me
 -
-Telegram: [@MrJavadGG](https://t.me/MrJavadGG/)
+Telegram: [MrJavadGG](https://t.me/MrJavadGG/)

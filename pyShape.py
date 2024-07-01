@@ -1,5 +1,6 @@
 import turtle
 print("\033[1;37;40m-------------------------")
+print('Hello')
 def ShapeStart():
     color = int(input("The color list:\n\033[1;31;40mRed: 1\n\033[1;32;40mGreen: 2\n\033[1;34;40mBlue: 3\n\033[1;30;40mBlack: 4\n\033[1;33;40mYellow: 5\n\033[1;35;40mPurple: 6\n\033[1;36;40mCyan: 7\n\033[1;37;40mPlease enter the number of the color: "))
 
